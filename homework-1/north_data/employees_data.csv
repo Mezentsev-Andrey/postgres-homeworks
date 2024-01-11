@@ -1,4 +1,4 @@
-"employee_id","first_name","last_name","title","birth_date","notes"
+employee_id,first_name,last_name,title,birth_date,notes
 1,"Nancy","Davolio","Sales Representative","1948-12-08","Education includes a BA in psychology from Colorado State University in 1970.  She also completed The Art of the Cold Call.  Nancy is a member of Toastmasters International."
 2,"Andrew","Fuller","Vice President, Sales","1952-02-19","Andrew received his BTS commercial in 1974 and a Ph.D. in international marketing from the University of Dallas in 1981.  He is fluent in French and Italian and reads German.  He joined the company as a sales representative, was promoted to sales manager in January 1992 and to vice president of sales in March 1993.  Andrew is a member of the Sales Management Roundtable, the Seattle Chamber of Commerce, and the Pacific Rim Importers Association."
 3,"Janet","Leverling","Sales Representative","1963-08-30","Janet has a BS degree in chemistry from Boston College (1984).  She has also completed a certificate program in food retailing management.  Janet was hired as a sales associate in 1991 and promoted to sales representative in February 1992."
